@@ -1,5 +1,5 @@
-module github.com/kovidgoyal/imaging
+module github.com/NurfitraPujo/imaging
 
-go 1.23.0
+go 1.22.12
 
-require golang.org/x/image v0.26.0
+require golang.org/x/image v0.23.0

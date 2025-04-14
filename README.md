@@ -7,11 +7,11 @@ as an input, and return a new image of `*image.NRGBA` type (32bit RGBA colors, n
 
 ## Installation
 
-    go get -u github.com/kovidgoyal/imaging
+    go get -u github.com/NurfitraPujo/imaging
 
 ## Documentation
 
-https://pkg.go.dev/github.com/kovidgoyal/imaging
+https://pkg.go.dev/github.com/NurfitraPujo/imaging
 
 ## Usage examples
 
