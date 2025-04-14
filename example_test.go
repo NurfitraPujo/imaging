@@ -5,7 +5,7 @@ import (
 	"image/color"
 	"log"
 
-	"github.com/kovidgoyal/imaging"
+	"github.com/NurfitraPujo/imaging"
 )
 
 func Example() {
